@@ -17,13 +17,9 @@ __Six lives__ to guess the word before the game ends.
 
 ## How It Works
 1. The game randomly selects a word.
-
 2. You guess one letter at a time.
-<br>
 3. Correct guesses reveal letters in the word.
-<br>
 4. Wrong guesses reduce your lives and progress the hangman drawing.
-<br>
 5. Win by guessing all letters, or lose if the hangman is completed!
 
 ## Run the Code
