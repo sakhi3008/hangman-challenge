@@ -17,7 +17,7 @@ __Six lives__ to guess the word before the game ends.
 
 ## How It Works
 1. The game randomly selects a word.
-<br>
+
 2. You guess one letter at a time.
 <br>
 3. Correct guesses reveal letters in the word.
